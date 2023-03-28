@@ -13,3 +13,7 @@ Análise exploratória das infrações de trânsito do Distrito Federal no mês 
 ## [Análise de Ações](/iesb/AnaliseAcoes.ipynb)
 
 Análise do desempenho de uma carteira de ações proposta por um artigo do site Exame ao longo do primeiro semestre de 2022. Conseguimos ver o retorno médio da carteira e analisar se teria sido benéfico ou não ter feito o investimento. Ajuda na tomada de decisão para investimentos futuros.
+
+## [Análise de Empréstimo](/iesb/Análise%20Empréstimo.ipynb)
+
+- 
