@@ -1,7 +1,3 @@
-<div style="background-color: #4CAF50; color: white; padding: 20px; text-align: center; font-size: 36px; font-weight: bold;">
-  Laboratório
-</div>
-
 # Laboratório
 
 Como um bom cientista em seu laboratório, aqui estão alguns códigos que nortearam meu aprendizado e experimentos que realizei. Algoritmos testados, tratamentos de dados, etc.
