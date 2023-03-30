@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Website</title>
-	<style>
-		header {
-			background-color: #4CAF50;
-			color: white;
-			padding: 20px;
-			text-align: center;
-			font-size: 36px;
-			font-weight: bold;
-		}
-	</style>
-</head>
-<body>
-	<header>Laboratório</header>
-	<!-- Rest of your HTML content goes here -->
-</body>
-</html>
-
+<div style="background-color: #4CAF50; color: white; padding: 20px; text-align: center; font-size: 36px; font-weight: bold;">
+  Laboratório
+</div>
 
 # Laboratório
 
