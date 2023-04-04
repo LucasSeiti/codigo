@@ -6,8 +6,4 @@ Como um bom cientista em seu laboratório, aqui estão alguns códigos que norte
 
 ## [Dados de Compra Consumidores](/laboratorio/Shop%20Customer%20Data.ipynb)
 
-## [Custo de Campanhas Publicitárias](/laboratorio/Media_Campaign_Cost.ipynb)
 
-- Competição do Kaggle: Playground Series - Season 3, Episode 11
-- Predição dos custos de campanhas publicitárias em supermercados
-- CatBoost Regressor
